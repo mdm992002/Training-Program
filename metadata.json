@@ -1,0 +1,5 @@
+{
+  "name": "AI & VR Training Program Scheduler",
+  "description": "An interactive 3-day training schedule for educators on employing AI and VR in TVET. Users can track their progress by marking sessions as complete.",
+  "requestFramePermissions": []
+}
